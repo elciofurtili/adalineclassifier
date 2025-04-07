@@ -1,10 +1,8 @@
-# 🧠 ADALINE Classifier - Atividade 2 de Inteligência Artificial
+# 🧠 ADALINE Classifier
 
-Este repositório contém a implementação completa do algoritmo **ADALINE (Adaptive Linear Neuron)** com experimentos realizados em três conjuntos de dados sintéticos, conforme solicitado na Atividade 2 da disciplina de Inteligência Artificial.
+Este repositório contém a implementação completa do algoritmo **ADALINE (Adaptive Linear Neuron)** com experimentos realizados em três conjuntos de dados sintéticos.
 
----
-
-## 📚 Descrição da Atividade
+## 📚 Descrição do Modelo
 
 A atividade consiste em:
 
@@ -12,8 +10,6 @@ A atividade consiste em:
 2. Testar a acurácia do modelo em 3 conjuntos de dados (dataset1, dataset2, dataset3).
 3. Plotar a evolução do erro e as fronteiras de decisão para cada conjunto.
 4. Analisar os resultados e limitações do modelo.
-
----
 
 ## 🛠️ Implementações
 
